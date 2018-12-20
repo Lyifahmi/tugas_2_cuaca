@@ -1,4 +1,8 @@
-# tugas_2_cuaca
+# Tugas_2_cuaca
 
-Nama  : Lyi Fahmi Yuniati Zahroh,
-NIM   : 2015150095
+Nama  : Lyi Fahmi Yuniati Zahroh <br>
+NIM   : 2015150095 <br>
+
+QR Code <br>
+<br>
+<img src="QR_weather.PNG">
